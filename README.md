@@ -8,4 +8,4 @@ we have to implement a stratigy for player1 to win and player2 will move randoml
 ![image](https://user-images.githubusercontent.com/71794972/137511606-8f5326a6-1fe6-497b-bd7b-4c2109855064.png)
 
 
-Note: we were required to keep the project in one file "main.c"
+# Note: we were required to keep the project in one file "main.c"
